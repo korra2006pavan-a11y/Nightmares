@@ -1,0 +1,15 @@
+ConnectMate/
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── server/
+│   ├── index.js
+│   └── package.json
+│
+├── src/
+│   └── db/
+│       └── schema.ts
+│
+└── drizzle.config.ts
